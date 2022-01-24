@@ -1,0 +1,35 @@
+﻿[
+  {
+    "employee": {
+      "employeeId": "14ge8a8d-775c-a24b-e8c6e2f4fgga",
+      "firstName": "Kyle",
+      "lastName": "Mulvey",
+      "position": "Software Engineer Co-op",
+      "department": "SchoolTool"
+    },
+    "salary": "42000",
+    "effectiveDate": "2/1/22"
+  },
+  {
+    "employee": {
+      "employeeId": "12345678-abcd-efg0-9d22gba566e1",
+      "firstName": "Xavier",
+      "lastName": "Quasar",
+      "position": "Software Engineer I",
+      "department": "Cloud"
+    },
+    "salary": "45000",
+    "effectiveDate": "10/31/21"
+  },
+  {
+    "employee": {
+      "employeeId": "9e9f9a41-ccc8-6b77-dbcga4511ee8",
+      "firstName": "Sly",
+      "lastName": "Cooper",
+      "position": "Software Engineer I",
+      "department": "Professional Services"
+    },
+    "salary": "45297",
+    "effectiveDate": "7/16/22"
+  }
+]
